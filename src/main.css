@@ -1,0 +1,27 @@
+.StartButton {
+    background-color: black;
+    color: whitesmoke;
+    block-size: 100px;
+    inline-size: 300px;
+    font-size: xx-large;
+}
+
+.ButtonP {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.AnswerP {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.TITLE {
+    text-align: center;
+    font-size: 70px;
+}
+
+.Question {
+    text-align: center;
+    font-size: 35px;
+}
